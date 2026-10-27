@@ -50,3 +50,7 @@ Run it:
 
 ## Author
 Ratnakar Gupta — B.Tech Computer Science and Engineering
+
+## Contributors
+
+- Sumir Kumar ([@sumirkumar-singh](https://github.com/sumirkumar-singh))
